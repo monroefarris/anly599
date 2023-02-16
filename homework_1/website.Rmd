@@ -1,0 +1,13 @@
+---
+title: 'ANLY 599: Homeowork 1'
+author: "Monroe Farris, Anam Khan, Jenn Orbes, Rafia Chaudhary"
+date: '2023-02-23'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
